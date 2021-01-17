@@ -13,7 +13,7 @@ IDE download: [pycharm](https://www.jetbrains.com/pycharm/download/#section=wind
 
 ### 📌 Dependencies
 
-실험을 수행하는데 필요한 패키지를 정리한 파일입니다.
+실험을 수행하는데 필요한 패키지를 정리한 파일입니다!
 
 ```console
 pip install -r requirements.txt
